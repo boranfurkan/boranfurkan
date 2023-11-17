@@ -7,7 +7,7 @@ A highly skilled Full Stack Developer with comprehensive experience in both fron
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/boranfurkann)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,py,nodejs,babel,bash,bootstrap,codepen,bots,express,figma,firebase,flask,go,heroku,js,ts,mongodb,mysql,postgres,ps,postman,tailwind,vscode,wasm)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=boranfurkan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=boranfurkan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
