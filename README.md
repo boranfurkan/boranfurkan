@@ -1,5 +1,5 @@
 # 💫 About Me:
-A highly skilled Full Stack Developer with comprehensive experience in both<br>front-end and back-end technologies, including Python Flask, HTML, CSS,<br>JavaScript, and SQL. Known for designing and implementing scalable, high-<br>performance web applications, and RESTful APIs. Proficient in utilizing<br>cutting-edge frameworks and coding languages while maintaining a strong<br>adherence to software design best practices and quality assurance protocols.<br>Committed to fostering team collaboration, spearheading agile practices, and<br>tackling complex technical challenges to elevate user engagement and<br>experience.
+A highly skilled Full Stack Developer with comprehensive experience in both front-end and back-end technologies, including Python Flask, HTML, CSS, JavaScript, and SQL. Known for designing and implementing scalable, high performance web applications, and RESTful APIs. Proficient in utilizing cutting-edge frameworks and coding languages while maintaining a strong adherence to software design best practices and quality assurance protocols. Committed to fostering team collaboration, spearheading agile practices, and tackling complex technical challenges to elevate user engagement and experience.
 
 
 ## 🌐 Socials:
