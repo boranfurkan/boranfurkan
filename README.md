@@ -1,6 +1,7 @@
 # 💫 About Me:
-A highly skilled Full Stack Developer with comprehensive experience in both front-end and back-end technologies, including React, NextJS, Python Flask and SQL/NOSQL databases. Known for designing and implementing scalable, high performance web applications, and RESTful APIs. Proficient in utilizing cutting-edge frameworks and coding languages while maintaining a strong adherence to software design best practices and quality assurance protocols. Committed to fostering team collaboration, spearheading agile practices, and tackling complex technical challenges to elevate user engagement and experience.
-
+Front End Developer with 4+ years building Web3 finance platforms, AI-powered applications, and real-time gaming
+experiences using React, TypeScript, and Next.js. Delivered 40+ production apps with focus on beautiful, performant
+interfaces. Specialized in scalability and creating exceptional user experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/boranfurkan/) 
