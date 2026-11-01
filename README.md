@@ -32,7 +32,7 @@ I'm a full-stack engineer in London. I turn Figma files into fast React and Next
 
 Started university in Riga, interned remotely for a team in Cologne, then finished with First-Class Honours at the University of Greenwich.
 
-<img src="assets/work.svg" alt="Selected work: two hackathon wins, products, client sites and one open-source library" width="100%">
+<img src="assets/work.svg" alt="Selected work: two hackathon wins and two products" width="100%">
 
 <table>
 <tr>
@@ -55,27 +55,9 @@ Started university in Riga, interned remotely for a team in Cologne, then finish
 <p align="center"><sub>Coming soon</sub></p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.furkanboran.info/#work/yda-partners"><img src="assets/work/yda-partners.webp" alt="YDA Partners: Legal clarity, in two languages. A bilingual website for an Istanbul law firm, designed and built from scratch, with its own CMS for articles and an inbox for client enquiries." width="100%"></a>
-<p align="center"><a href="https://www.ydapartners.com/en">Visit site</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.furkanboran.info/#work/omis-hair"><img src="assets/work/omis-hair.webp" alt="Omis Hair: A West Hampstead salon, online. A full website for a hair salon in West Hampstead, London: services and prices, a gallery of their work, the team, live Google reviews and an Instagram feed." width="100%"></a>
-<p align="center"><a href="https://www.omishair.co.uk/">Visit site</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.furkanboran.info/#work/react-3d-button"><img src="assets/work/react-3d-button.webp" alt="React 3D Button: A button worth pressing. A zero-dependency TypeScript React library for tactile 3D buttons, with themes, sizes, loading states and a built-in toggle mode." width="100%"></a>
-<p align="center"><a href="https://react-3d-button-demo.vercel.app/">Live demo</a> · <a href="https://www.npmjs.com/package/react-3d-button">npm</a> · <a href="https://github.com/boranfurkan/react-3d-button">GitHub</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.furkanboran.info"><img src="assets/work/more.webp" alt="Every project has a full story on furkanboran.info" width="100%"></a>
-<p align="center"><a href="https://www.furkanboran.info">furkanboran.info</a> · <a href="https://github.com/boranfurkan?tab=repositories">All repositories</a></p>
-</td>
-</tr>
 </table>
+
+<p align="center"><sub>Client sites, an open-source React library and more on <a href="https://www.furkanboran.info">furkanboran.info</a> · <a href="https://github.com/boranfurkan?tab=repositories">All repositories</a></sub></p>
 
 <img src="assets/about.svg" alt="I care about the details that make a product feel finished." width="100%">
 
