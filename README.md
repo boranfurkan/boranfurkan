@@ -6,7 +6,7 @@
   <a href="https://www.furkanboran.info"><img src="assets/links/website.svg" alt="furkanboran.info" height="52"></a>
   <a href="https://www.linkedin.com/in/boranfurkan/"><img src="assets/links/linkedin.svg" alt="LinkedIn" height="52"></a>
   <a href="mailto:furkanboran123@hotmail.com"><img src="assets/links/email.svg" alt="Email me" height="52"></a>
-  <a href="https://x.com/boranfurkan34"><img src="assets/links/x.svg" alt="@boranfurkan34 on X" height="52"></a>
+  <a href="https://x.com/boranfurkan34"><img src="assets/links/x-account.svg" alt="@boranfurkan34 on X" height="52"></a>
   <a href="https://www.instagram.com/boranfurkann/"><img src="assets/links/instagram.svg" alt="Instagram" height="52"></a>
 </p>
 
@@ -32,7 +32,7 @@ I'm a full-stack engineer in London. I turn Figma files into fast React and Next
 
 Started university in Riga, interned remotely for a team in Cologne, then finished with First-Class Honours at the University of Greenwich.
 
-<img src="assets/work.svg" alt="Selected work: two hackathon wins and two products" width="100%">
+<img src="assets/selected-work.svg" alt="Selected work: two hackathon wins and two products" width="100%">
 
 <table>
 <tr>
@@ -77,7 +77,7 @@ I own every stage, from the Figma file to the Docker deploy. 40+ client projects
   <a href="https://www.furkanboran.info"><img src="assets/links/website.svg" alt="furkanboran.info" height="52"></a>
   <a href="https://www.linkedin.com/in/boranfurkan/"><img src="assets/links/linkedin.svg" alt="LinkedIn" height="52"></a>
   <a href="mailto:furkanboran123@hotmail.com"><img src="assets/links/email.svg" alt="Email me" height="52"></a>
-  <a href="https://x.com/boranfurkan34"><img src="assets/links/x.svg" alt="@boranfurkan34 on X" height="52"></a>
+  <a href="https://x.com/boranfurkan34"><img src="assets/links/x-account.svg" alt="@boranfurkan34 on X" height="52"></a>
   <a href="https://www.instagram.com/boranfurkann/"><img src="assets/links/instagram.svg" alt="Instagram" height="52"></a>
 </p>
 
